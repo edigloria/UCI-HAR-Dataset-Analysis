@@ -58,7 +58,7 @@ for (i in 1:nrow(activities)) {
 
 # ------------------------------------------------------------------------------
 # step 4 - Appropriately labels the data set with descriptive variable names.
-# ------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 # make feature names more  readable
 
 filtered_feature_names <- features[filtered_feature_ids]
